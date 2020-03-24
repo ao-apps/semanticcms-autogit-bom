@@ -23,7 +23,7 @@ Bill of Materials (BOM) for [SemanticCMS automatic Git](https://github.com/aoind
 ## Project Links
 * [Project Home](https://semanticcms.com/autogit/bom/)
 * [Changelog](https://semanticcms.com/autogit/bom/changelog)
-* [Maven Central Repository](https://search.maven.org/#search%7Cgav%7C1%7Cg:%22com.semanticcms%22%20AND%20a:%22semanticcms-autogit-bom%22)
+* [Maven Central Repository](https://search.maven.org/artifact/com.semanticcms/semanticcms-autogit-bom)
 * [GitHub](https://github.com/aoindustries/semanticcms-autogit-bom)
 
 ## Managed Dependencies
