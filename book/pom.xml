@@ -36,15 +36,15 @@ along with semanticcms-autogit-bom.  If not, see <https://www.gnu.org/licenses/>
     <module.name>com.semanticcms.autogit.bom.book</module.name>
     <!-- These values are copied from the project being documented -->
     <documented.artifactId>semanticcms-autogit-bom</documented.artifactId>
-    <documented.name>SemanticCMS AutoGit BOM²</documented.name>
+    <documented.name>SemanticCMS AutoGit BOM</documented.name>
     <documented.description>Bill of Materials (BOM) for SemanticCMS automatic Git.</documented.description>
 
     <description.html><![CDATA[Documentation for <a target="${javadoc.target}" href="${project.url}">${documented.name}</a> in <a target="${javadoc.target}" href="https://semanticcms.com/">SemanticCMS</a> format.]]></description.html>
   </properties>
 
-  <name>SemanticCMS AutoGit BOM² Book</name>
+  <name>SemanticCMS AutoGit BOM Book</name>
   <url>https://semanticcms.com/autogit/bom/</url>
-  <description>Documentation for SemanticCMS AutoGit BOM² in SemanticCMS format.</description>
+  <description>Documentation for SemanticCMS AutoGit BOM in SemanticCMS format.</description>
   <inceptionYear>2019</inceptionYear>
 
   <licenses>

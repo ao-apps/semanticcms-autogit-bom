@@ -39,7 +39,7 @@ along with semanticcms-autogit-bom.  If not, see <https://www.gnu.org/licenses/>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
-  <name>SemanticCMS AutoGit BOM²</name>
+  <name>SemanticCMS AutoGit BOM</name>
   <url>https://semanticcms.com/autogit/bom/</url>
   <description>Bill of Materials (BOM) for SemanticCMS automatic Git.</description>
   <inceptionYear>2019</inceptionYear>
