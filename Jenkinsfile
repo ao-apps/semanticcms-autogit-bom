@@ -30,7 +30,7 @@ def upstreamProjects = [
   // BOM
   'all', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-all</artifactId>
   'model', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-model</artifactId>
-  'servlet', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-server</artifactId>
+  'servlet', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-servlet</artifactId>
   'style', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-style</artifactId>
   'taglib', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-taglib</artifactId>
   'view', // <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-view</artifactId>
