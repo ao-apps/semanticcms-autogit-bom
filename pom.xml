@@ -32,9 +32,6 @@ along with semanticcms-autogit-bom.  If not, see <https://www.gnu.org/licenses/>
   <groupId>com.semanticcms</groupId><artifactId>semanticcms-autogit-bom</artifactId><version>1.6.2-POST-SNAPSHOT</version>
   <packaging>pom</packaging>
 
-  <properties>
-  </properties>
-
   <name>SemanticCMS AutoGit BOM</name>
   <url>https://semanticcms.com/autogit/bom/</url>
   <description>Bill of Materials (BOM) for SemanticCMS automatic Git.</description>
